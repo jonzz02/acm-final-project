@@ -1,0 +1,38 @@
+{
+  "clustering": {
+    "method": "UMAP + HDBSCAN",
+    "n_clusters": 30,
+    "n_noise": 376,
+    "noise_percentage": 8.958780081010245,
+    "parameters": {
+      "umap_n_components": 50,
+      "umap_n_neighbors": 30,
+      "hdbscan_min_cluster_size": 50,
+      "hdbscan_min_samples": 10
+    }
+  },
+  "nmf_baseline": {
+    "method": "NMF on TF-IDF",
+    "n_topics": 30,
+    "reconstruction_error": 60.70044270950028
+  },
+  "agreement": {
+    "metric": [
+      "NMI",
+      "ARI"
+    ],
+    "nmi": 0.6221368728564992,
+    "ari": 0.4140096387878636,
+    "note": "Computed on non-noise points only"
+  },
+  "outputs": {
+    "complete_dataset": "speeches_with_clusters_topics.csv",
+    "cluster_summary": "cluster_summary.csv",
+    "cluster_labels": "cluster_labels.csv",
+    "cluster_topic_crosstab": "cluster_topic_crosstab.csv",
+    "cluster_topic_crosstab_rowpct": "cluster_topic_crosstab_normalized_rowpct.csv",
+    "cluster_best_topic": "cluster_best_nmf_topic.csv",
+    "cluster_topic_heatmap": "cluster_topic_heatmap_rowpct.png"
+  },
+  "generation_date": "2026-01-18 17:09:19"
+}

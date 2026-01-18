@@ -1,0 +1,25 @@
+{
+  "model": "text-embedding-3-large",
+  "dimensions": 3072,
+  "specified_dimensions": null,
+  "batch_size": 64,
+  "encoding_format": "float",
+  "normalized": true,
+  "n_speeches": 4197,
+  "n_embedded": 4197,
+  "embedding_shape": [
+    4197,
+    3072
+  ],
+  "statistics": {
+    "mean_norm": 1.0,
+    "std_norm": 2.0757235930091156e-08,
+    "min_value": -0.2079707831144333,
+    "max_value": 0.13193568587303162,
+    "mean_value": -0.0004610434116329998
+  },
+  "source_file": "speeches_cleaned.csv",
+  "text_column": "text_clean",
+  "embeddings_file": "data/embeddings/openai_embeddings.npy",
+  "done_indices_file": "data/embeddings/done_indices.json"
+}

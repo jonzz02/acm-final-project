@@ -1,0 +1,3912 @@
+[
+  {
+    "unique_id": "21001_Tagesordnungspunkt",
+    "session_id": "21001",
+    "wahlperiode": "21",
+    "session_nr": "1",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Beschlussfassung über die",
+    "speech_count": 12
+  },
+  {
+    "unique_id": "21001_Tagesordnungspunkt",
+    "session_id": "21001",
+    "wahlperiode": "21",
+    "session_nr": "1",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "Wahl der Präsidentin/des Präsidenten verbunden mit Namensaufruf und Feststellung der Beschlussfähigkeit",
+    "speech_count": 12
+  },
+  {
+    "unique_id": "21001_Tagesordnungspunkt",
+    "session_id": "21001",
+    "wahlperiode": "21",
+    "session_nr": "1",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Wahl der Stellvertreterinnen und Stellvertreter der Präsidentin/des Präsidenten",
+    "speech_count": 12
+  },
+  {
+    "unique_id": "21001_Zur",
+    "session_id": "21001",
+    "wahlperiode": "21",
+    "session_nr": "1",
+    "top_id": "Zur",
+    "top_title": "Zur Geschäftsordnung:",
+    "description": null,
+    "speech_count": 5
+  },
+  {
+    "unique_id": "21002_Tagesordnungspunkt",
+    "session_id": "21002",
+    "wahlperiode": "21",
+    "session_nr": "2",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1 (Fortsetzung):",
+    "description": "Wahl des Bundeskanzlers",
+    "speech_count": 19
+  },
+  {
+    "unique_id": "21002_Tagesordnungspunkt",
+    "session_id": "21002",
+    "wahlperiode": "21",
+    "session_nr": "2",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Eidesleistung des Bundeskanzlers",
+    "speech_count": 19
+  },
+  {
+    "unique_id": "21002_Tagesordnungspunkt",
+    "session_id": "21002",
+    "wahlperiode": "21",
+    "session_nr": "2",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Eidesleistung der Bundesministerinnen und Bundesminister",
+    "speech_count": 19
+  },
+  {
+    "unique_id": "21002_Zur",
+    "session_id": "21002",
+    "wahlperiode": "21",
+    "session_nr": "2",
+    "top_id": "Zur",
+    "top_title": "Zur Geschäftsordnung:",
+    "description": null,
+    "speech_count": 5
+  },
+  {
+    "unique_id": "21003_Tagesordnungspunkt",
+    "session_id": "21003",
+    "wahlperiode": "21",
+    "session_nr": "3",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 153
+  },
+  {
+    "unique_id": "21003_Tagesordnungspunkt",
+    "session_id": "21003",
+    "wahlperiode": "21",
+    "session_nr": "3",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Abgabe einer Regierungserklärung durch den Bundeskanzler mit anschließender Aussprache",
+    "speech_count": 153
+  },
+  {
+    "unique_id": "21003_Tagesordnungspunkt",
+    "session_id": "21003",
+    "wahlperiode": "21",
+    "session_nr": "3",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+    "speech_count": 153
+  },
+  {
+    "unique_id": "21004_Tagesordnungspunkt",
+    "session_id": "21004",
+    "wahlperiode": "21",
+    "session_nr": "4",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Abgabe einer Regierungserklärung durch den Bundeskanzler (Fortsetzung der Aussprache)",
+    "speech_count": 145
+  },
+  {
+    "unique_id": "21004_Tagesordnungspunkt",
+    "session_id": "21004",
+    "wahlperiode": "21",
+    "session_nr": "4",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Antrag der Fraktionen der CDU/CSU und SPD: Einsetzung von Ausschüssen",
+    "speech_count": 145
+  },
+  {
+    "unique_id": "21005_Tagesordnungspunkt",
+    "session_id": "21005",
+    "wahlperiode": "21",
+    "session_nr": "5",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Abgabe einer Regierungserklärung durch den Bundeskanzler (Fortsetzung der Aussprache)",
+    "speech_count": 60
+  },
+  {
+    "unique_id": "21006_Tagesordnungspunkt",
+    "session_id": "21006",
+    "wahlperiode": "21",
+    "session_nr": "6",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 148
+  },
+  {
+    "unique_id": "21006_Tagesordnungspunkt",
+    "session_id": "21006",
+    "wahlperiode": "21",
+    "session_nr": "6",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "Beratung der Unterrichtung durch die Wehrbeauftragte: Jahresbericht 2024 (66. Bericht)",
+    "speech_count": 148
+  },
+  {
+    "unique_id": "21006_Tagesordnungspunkt",
+    "session_id": "21006",
+    "wahlperiode": "21",
+    "session_nr": "6",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Wahlvorschläge der Fraktionen CDU/CSU, AfD, SPD, BÜNDNIS 90/DIE GRÜNEN und Die Linke: Wahl der Mitglieder des Wahlausschusses für die vom Deutschen Bundestag zu berufenden Richter des Bundesverfassung",
+    "speech_count": 148
+  },
+  {
+    "unique_id": "21006_Tagesordnungspunkt",
+    "session_id": "21006",
+    "wahlperiode": "21",
+    "session_nr": "6",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Antrag der Abgeordneten Andreas Bleck, Dr. Michael Blos, Dr. Ingo Hahn, weiterer Abgeordneter und der Fraktion der AfD: Moratorium für den Rückbau abgeschalteter Kernkraftwerke",
+    "speech_count": 148
+  },
+  {
+    "unique_id": "21006_Tagesordnungspunkt",
+    "session_id": "21006",
+    "wahlperiode": "21",
+    "session_nr": "6",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu dem Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über mit bestimmten neuen genomischen Techniken gewonnene Pflanzen und die aus ",
+    "speech_count": 148
+  },
+  {
+    "unique_id": "21006_Zusatzpunkt",
+    "session_id": "21006",
+    "wahlperiode": "21",
+    "session_nr": "6",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 1:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion der AfD: Zahl der Messerangriffe in Deutschland steigt stark – Ursachen klar benennen und entschlossen handeln",
+    "speech_count": 12
+  },
+  {
+    "unique_id": "21007_Tagesordnungspunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 9:",
+    "description": "Antrag der Abgeordneten Dr. Gottfried Curio, Dr. Bernd Baumann, Christopher Drößler, weiterer Abgeordneter und der Fraktion der AfD: Reform der Einbürgerungspolitik als Voraussetzung einer wirklichen ",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21007_Tagesordnungspunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUFOR ALTHEA in Bosnien und Herzegowina",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21007_Tagesordnungspunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 11:",
+    "description": "Antrag der Abgeordneten Agnieszka Brugger, Dr. Julia Verlinden, Dr. Konstantin von Notz, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Sicherheit stärken, Energieabhängigkeiten durch e",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21007_Tagesordnungspunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 10:",
+    "description": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL)",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21007_Tagesordnungspunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 12:",
+    "description": "Erste Beratung des von der Fraktion Die Linke eingebrachten Entwurfs eines Gesetzes zur besseren Bekämpfung überhöhter Mieten (Mietwuchergesetz)",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21007_Tagesordnungspunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 20:",
+    "description": "Beratung der Beschlussempfehlung des Ältestenrates: Zeitplan des Deutschen Bundestages für das Jahr 2025 ab Juni 2025",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21007_Zusatzpunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 2:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Verlängerung der Fristen im Investitionsprogramm Ganztagsausbau",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21007_Zusatzpunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 3:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Freiheitlichen Rechtsstaat schützen – Gewalt gegen Sicherheitskräfte konsequent entgegentreten",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21007_Zusatzpunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 4:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Kulturgutschutzgesetzes (1. KGSGÄndG)",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21007_Zusatzpunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 5:",
+    "description": "Antrag der Abgeordneten Leif-Erik Holm, Marc Bernhard, Peter Boehringer, weiterer Abgeordneter und der Fraktion der AfD: Deindustrialisierung stoppen – Verbrenner-Verbot aufheben",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21007_Zusatzpunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 6:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zu dem Vierten Protokoll vom 18. September 2023 zur Änderung des Vertrags vom 27. Oktober 1956 zwischen ",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21007_Zusatzpunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 7:",
+    "description": "Antrag der Abgeordneten Katharina Beck, Dr. Moritz Heuberger, Max Lucks, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Organisierte Steuerhinterziehung wie Cum-Cum-Deals aufklären, Ste",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21007_Zusatzpunkt",
+    "session_id": "21007",
+    "wahlperiode": "21",
+    "session_nr": "7",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 8:",
+    "description": "Erste Beratung des von der Fraktion Die Linke eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes (Artikel 143i)",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21008_Tagesordnungspunkt",
+    "session_id": "21008",
+    "wahlperiode": "21",
+    "session_nr": "8",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Vereinbarte Debatte: 75 Jahre Mitgliedschaft Deutschlands im Europarat",
+    "speech_count": 53
+  },
+  {
+    "unique_id": "21008_Tagesordnungspunkt",
+    "session_id": "21008",
+    "wahlperiode": "21",
+    "session_nr": "8",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "Antrag der Abgeordneten Marc Bernhard, Carolin Bachmann, Sebastian Münzenmaier, weiterer Abgeordneter und der Fraktion der AfD: Kein Heizungsgesetz durch die Hintertür – CO2-Bepreisung abschaffen",
+    "speech_count": 53
+  },
+  {
+    "unique_id": "21008_Tagesordnungspunkt",
+    "session_id": "21008",
+    "wahlperiode": "21",
+    "session_nr": "8",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 17:",
+    "description": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der internationalen Sicherheitspräsenz in Kosovo (KFOR)",
+    "speech_count": 53
+  },
+  {
+    "unique_id": "21008_Tagesordnungspunkt",
+    "session_id": "21008",
+    "wahlperiode": "21",
+    "session_nr": "8",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 18:",
+    "description": "Erste Beratung des von den Abgeordneten Dr. Till Steffen, Hanna Steinmüller, Lukas Benner, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Faire-Mieten-Gesetz",
+    "speech_count": 53
+  },
+  {
+    "unique_id": "21008_Tagesordnungspunkt",
+    "session_id": "21008",
+    "wahlperiode": "21",
+    "session_nr": "8",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "Antrag der Fraktion Die Linke: Ein Tierschutzgesetz, das Tiere wirksam schützt",
+    "speech_count": 53
+  },
+  {
+    "unique_id": "21008_Zusatzpunkt",
+    "session_id": "21008",
+    "wahlperiode": "21",
+    "session_nr": "8",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 9:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Rahmenbedingungen für die Erprobung von Innovationen in Reallaboren und zur Förderu",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21008_Zusatzpunkt",
+    "session_id": "21008",
+    "wahlperiode": "21",
+    "session_nr": "8",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 10:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN: Dürre in Deutschland – Bedrohung für Mensch, Wirtschaft und Natur nicht aussitzen, Klimaschutz konsequent umsetzen",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21009_Tagesordnungspunkt",
+    "session_id": "21009",
+    "wahlperiode": "21",
+    "session_nr": "9",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 133
+  },
+  {
+    "unique_id": "21009_Tagesordnungspunkt",
+    "session_id": "21009",
+    "wahlperiode": "21",
+    "session_nr": "9",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "Vereinbarte Debatte aus Anlass des Nationalen Gedenktages an den Volksaufstand in der DDR von 1953",
+    "speech_count": 133
+  },
+  {
+    "unique_id": "21009_Tagesordnungspunkt",
+    "session_id": "21009",
+    "wahlperiode": "21",
+    "session_nr": "9",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Antrag der Abgeordneten Martin Hess, Dr. Bernd Baumann, Dr. Gottfried Curio, weiterer Abgeordneter und der Fraktion der AfD: Ausreisegewahrsam und Abschiebehaft für ausreisepflichtige Personen, insbes",
+    "speech_count": 133
+  },
+  {
+    "unique_id": "21009_Zusatzpunkt",
+    "session_id": "21009",
+    "wahlperiode": "21",
+    "session_nr": "9",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 1:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Zur Lage der transatlantischen Beziehungen vor dem USA-Besuch des Bundeskanzlers",
+    "speech_count": 20
+  },
+  {
+    "unique_id": "21009_Zusatzpunkt",
+    "session_id": "21009",
+    "wahlperiode": "21",
+    "session_nr": "9",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 2:",
+    "description": "Antrag der Abgeordneten Anne Zerr, Doris Achelwilm, Dr. Dietmar Bartsch, weiterer Abgeordneter und der Fraktion Die Linke: Den Achtstundentag erhalten – Wöchentliche Höchstarbeitszeit absenken",
+    "speech_count": 20
+  },
+  {
+    "unique_id": "21010_Anlage",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Anlage",
+    "top_title": "Anlage 2",
+    "description": "Erklärungen nach § 31 Geschäftsordnung zu der Abstimmung über den Antrag der Fraktionen der CDU/CSU und SPD: Anpassungsverfahren gemäß § 11 Absatz 4 des Abgeordnetengesetzes",
+    "speech_count": 3
+  },
+  {
+    "unique_id": "21010_Anlage",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Anlage",
+    "top_title": "Anlage 3",
+    "description": "Zu Protokoll gegebene Rede zur Beratung des von den Abgeordneten Stephan Brandner, Adam Balten, Marc Bernhard, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur ",
+    "speech_count": 3
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Eidesleistung des Wehrbeauftragten",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "Erste Beratung des von den Abgeordneten Dr. Malte Kaufmann, Leif-Erik Holm, Enrico Komning, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Abschaffung des Ges",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 10:",
+    "description": "Antrag der Abgeordneten Marcel Emmerich, Dr. Irene Mihalic, Dr. Konstantin von Notz, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Europarecht einhalten, Schutzbedürftige schützen, Zur",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 29:",
+    "description": "Bericht des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung zur Auslegung der Geschäftsordnung – hier: Verteilung des Vorschlagsrechts für die Vorsitze und stellvertretenden Vorsitze der s",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 9:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Änderung des Telekommunikationsgesetzes und zur Feststellung des überragenden öffentlichen Interesse",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "Antrag der Abgeordneten Kay Gottschalk, Jan Wenzel Schmidt, Jörn König, weiterer Abgeordneter und der Fraktion der AfD: Standort Deutschland stärken – Solidaritätszuschlag abschaffen",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Anpassung von Regelungen über den polizeilichen Informationsverbund im Bundeskriminalamtgesetz",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "Antrag der Abgeordneten Ates Gürpinar, Doris Achelwilm, Dr. Michael Arndt, weiterer Abgeordneter und der Fraktion Die Linke: Leistungskürzungen und Beitragsexplosion in Gesundheit und Pflege verhinder",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Sechsten Gesetzes zur Änderung des Allgemeinen Eisenbahngesetzes",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 17:",
+    "description": "Antrag der Fraktionen der CDU/CSU und SPD: Anpassungsverfahren gemäß § 11 Absatz 4 des Abgeordnetengesetzes",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 20:",
+    "description": "Erste Beratung des von den Abgeordneten Stephan Brandner, Adam Balten, Marc Bernhard, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Einführung der Haftung vo",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Tagesordnungspunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 21:",
+    "description": "Antrag der Abgeordneten Dr. Götz Frömming, Martin Erwin Renner, Ronald Gläser, weiterer Abgeordneter und der Fraktion der AfD: Schwarz-Rot-Gold als identitätsstiftendes Symbol für unsere Demokratie ko",
+    "speech_count": 94
+  },
+  {
+    "unique_id": "21010_Zur",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Zur",
+    "top_title": "Zur Geschäftsordnung:",
+    "description": null,
+    "speech_count": 1
+  },
+  {
+    "unique_id": "21010_Zusatzpunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 3:",
+    "description": "Antrag der Abgeordneten Caren Lay, Katalin Gennburg, Sahra Mirow, weiterer Abgeordneter und der Fraktion Die Linke: Mietpreisbremse verschärfen – Mieten stoppen",
+    "speech_count": 57
+  },
+  {
+    "unique_id": "21010_Zusatzpunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 12:",
+    "description": "Antrag der Abgeordneten Katharina Beck, Dr. Moritz Heuberger, Max Lucks, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Gerechtigkeitslücken im Steuersystem schließen, Steuerbetrug wirk",
+    "speech_count": 57
+  },
+  {
+    "unique_id": "21010_Zusatzpunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 13:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion Die Linke: Zur humanitären Katastrophe in Gaza",
+    "speech_count": 57
+  },
+  {
+    "unique_id": "21010_Zusatzpunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 7:",
+    "description": "Antrag der Abgeordneten Gerold Otten, Uwe Schulz, Marc Bernhard, weiterer Abgeordneter und der Fraktion der AfD: Nationalen Sicherheitsrat einrichten – Nationale Sicherheitsstrategie entwerfen und kon",
+    "speech_count": 57
+  },
+  {
+    "unique_id": "21010_Zusatzpunkt",
+    "session_id": "21010",
+    "wahlperiode": "21",
+    "session_nr": "10",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 8:",
+    "description": "Antrag der Abgeordneten Jan Köstering, Anne-Mieke Bremer, Clara Bünger, weiterer Abgeordneter und der Fraktion Die Linke: Unterstützung des Bundes im Rahmen der Waldbrand- und Vegetationsbrandbekämpfu",
+    "speech_count": 57
+  },
+  {
+    "unique_id": "21011_Tagesordnungspunkt",
+    "session_id": "21011",
+    "wahlperiode": "21",
+    "session_nr": "11",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 24:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Tierhaltungskennzeichnungsgesetzes",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21011_Tagesordnungspunkt",
+    "session_id": "21011",
+    "wahlperiode": "21",
+    "session_nr": "11",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "Antrag der Abgeordneten Ricarda Lang, Lisa Paus, Andreas Audretsch, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Mindestlohngesetz reformieren – 15 Euro pro Stunde sicherstellen",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21011_Tagesordnungspunkt",
+    "session_id": "21011",
+    "wahlperiode": "21",
+    "session_nr": "11",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 26:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des GAP-Direktzahlungen-Gesetzes",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21011_Zusatzpunkt",
+    "session_id": "21011",
+    "wahlperiode": "21",
+    "session_nr": "11",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 9:",
+    "description": "Antrag der Abgeordneten Clara Bünger, Anne-Mieke Bremer, Katrin Fey, weiterer Abgeordneter und der Fraktion Die Linke: Familiennachzug zu Schutzbedürftigen erleichtern statt aussetzen",
+    "speech_count": 44
+  },
+  {
+    "unique_id": "21011_Zusatzpunkt",
+    "session_id": "21011",
+    "wahlperiode": "21",
+    "session_nr": "11",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 10:",
+    "description": "Antrag der Fraktion Die Linke: Gaza – Völkerrecht verteidigen, Waffenlieferungen stoppen, humanitäre Hilfe ermöglichen",
+    "speech_count": 44
+  },
+  {
+    "unique_id": "21011_Zusatzpunkt",
+    "session_id": "21011",
+    "wahlperiode": "21",
+    "session_nr": "11",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 11:",
+    "description": "Erste Beratung des von den Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Ulrich von Zons, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur besseren Be",
+    "speech_count": 44
+  },
+  {
+    "unique_id": "21011_Zusatzpunkt",
+    "session_id": "21011",
+    "wahlperiode": "21",
+    "session_nr": "11",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 6:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN: Klimakrise spitzt sich zu – Bundesregierung darf Klimaschutz nicht hintenanstellen",
+    "speech_count": 44
+  },
+  {
+    "unique_id": "21012_Tagesordnungspunkt",
+    "session_id": "21012",
+    "wahlperiode": "21",
+    "session_nr": "12",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Abgabe einer Regierungserklärung durch den Bundeskanzler: Zum NATO-Gipfel am 24. und 25. Juni in Den Haag und zum Europäischen Rat am 26. und 27. Juni 2025 in Brüssel",
+    "speech_count": 16
+  },
+  {
+    "unique_id": "21013_Tagesordnungspunkt",
+    "session_id": "21013",
+    "wahlperiode": "21",
+    "session_nr": "13",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 141
+  },
+  {
+    "unique_id": "21013_Tagesordnungspunkt",
+    "session_id": "21013",
+    "wahlperiode": "21",
+    "session_nr": "13",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union gefüh",
+    "speech_count": 141
+  },
+  {
+    "unique_id": "21013_Tagesordnungspunkt",
+    "session_id": "21013",
+    "wahlperiode": "21",
+    "session_nr": "13",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "Antrag der Abgeordneten Carolin Bachmann, Marc Bernhard, Sebastian Münzenmaier, weiterer Abgeordneter und der Fraktion der AfD: Keine planungsrechtlichen Sonderrechte für Flüchtlingsunterkünfte",
+    "speech_count": 141
+  },
+  {
+    "unique_id": "21013_Zusatzpunkt",
+    "session_id": "21013",
+    "wahlperiode": "21",
+    "session_nr": "13",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 2:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion Die Linke: Bericht der Sonderbeauftragten für die Maskenbeschaffung – Volle Transparenz und Aufklärung jetzt",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21013_Zusatzpunkt",
+    "session_id": "21013",
+    "wahlperiode": "21",
+    "session_nr": "13",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 3:",
+    "description": "Antrag der Abgeordneten Stephan Brandner, Martin Sichert, Fabian Jacobi, weiterer Abgeordneter und der Fraktion der AfD: Einsetzung des 1. Untersuchungsausschusses der 21. Wahlperiode (Aufarbeitung de",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21013_Zusatzpunkt",
+    "session_id": "21013",
+    "wahlperiode": "21",
+    "session_nr": "13",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 5:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie zu dem Antrag der Abgeordneten Agnieszka Brugger, Dr. Julia Verlinden, Dr. Konstantin von Notz, weiterer Abgeordneter und der",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21014_Anlage",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Anlage",
+    "top_title": "Anlage 3",
+    "description": "Zu Protokoll gegebene Rede zur Beratung",
+    "speech_count": 1
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "– Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes für ein steuerliches Investitionssofortprogramm zur Stärkung des Wirtschaftsstandorts Deut",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 9:",
+    "description": "Antrag der Abgeordneten Nyke Slawik, Ulle Schauws, Helge Limburg, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Queerfeindliche Hasskriminalität wirksam bekämpfen und die rechtliche Di",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 11:",
+    "description": "Erste Beratung des von den Abgeordneten Karsten Hilse, Steffen Kotré, Dr. Rainer Kraft, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgeset",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 37:",
+    "description": "– Zweite Beratung und Schlussabstimmung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zu dem Vierten Protokoll vom 18. September 2023 zur Änderung des Vertrags vom 2",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der internationalen Sicherheitspräsen",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "Antrag der Abgeordneten Pascal Meiser, Doris Achelwilm, Dr. Dietmar Bartsch, weiterer Abgeordneter und der Fraktion Die Linke: Aktionsplan zur Stärkung der Tarifbindung – Bessere Arbeitsbedingungen un",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in ",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "Antrag der Abgeordneten René Springer, Peter Bohnhof, Gerrit Huy, weiterer Abgeordneter und der Fraktion der AfD: Bürgergeldbezug für Kriegsflüchtlinge aus der Ukraine beenden",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 17:",
+    "description": "Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Änderung des Telekommunikationsgesetzes und zur Feststellung des überragenden öffentlich",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Tagesordnungspunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "– Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Verlängerung der Fristen im Investitionsprogramm Ganztagsausbau",
+    "speech_count": 109
+  },
+  {
+    "unique_id": "21014_Zusatzpunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 6:",
+    "description": "Zweite und dritte Beratung des von den Abgeordneten Dr. Till Steffen, Hanna Steinmüller, Lukas Benner, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Faire-M",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21014_Zusatzpunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 14:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Lage im Nahen und Mittleren Osten",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21014_Zusatzpunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 11:",
+    "description": "Antrag der Abgeordneten Martin Reichardt, Kay Gottschalk, Jan Wenzel Schmidt, weiterer Abgeordneter und der Fraktion der AfD: Familien entlasten – Das Ehegattensplitting zu einer umfassenden Familienf",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21014_Zusatzpunkt",
+    "session_id": "21014",
+    "wahlperiode": "21",
+    "session_nr": "14",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 12:",
+    "description": "Antrag der Abgeordneten Matthias Gastel, Swantje Henrike Michaelsen, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Die Bahn zum Rückgrat klima- und familienfreundlicher",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21015_Anlage",
+    "session_id": "21015",
+    "wahlperiode": "21",
+    "session_nr": "15",
+    "top_id": "Anlage",
+    "top_title": "Anlage 4",
+    "description": "Erklärungen nach § 31 GO zu der namentlichen Abstimmung über den von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurf eines Gesetzes zur Aussetzung des Familiennachzugs zu subsidiär Schutzbere",
+    "speech_count": 25
+  },
+  {
+    "unique_id": "21015_Tagesordnungspunkt",
+    "session_id": "21015",
+    "wahlperiode": "21",
+    "session_nr": "15",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 29:",
+    "description": "– Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Aussetzung des Familiennachzugs zu subsidiär Schutzberechtigten",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21015_Tagesordnungspunkt",
+    "session_id": "21015",
+    "wahlperiode": "21",
+    "session_nr": "15",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 30:",
+    "description": "Erste Beratung des von den Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Rainer Galla, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zum Verbot der Fin",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21015_Tagesordnungspunkt",
+    "session_id": "21015",
+    "wahlperiode": "21",
+    "session_nr": "15",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 31:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Sechsten Gesetzes zur Änderung des Staatsangehörigkeitsgesetzes",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21015_Tagesordnungspunkt",
+    "session_id": "21015",
+    "wahlperiode": "21",
+    "session_nr": "15",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 32:",
+    "description": "Antrag der Fraktion Die Linke: Mehrwertsteuer auf Grundnahrungsmittel, Hygieneprodukte und auf Bus und Bahn abschaffen",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21015_Tagesordnungspunkt",
+    "session_id": "21015",
+    "wahlperiode": "21",
+    "session_nr": "15",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 34:",
+    "description": "Antrag der Abgeordneten Simone Fischer, Dr. Janosch Dahmen, Linda Heitmann, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Priorität für Pflege – Jetzt Sofortmaßnahmen ergreifen",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21015_Tagesordnungspunkt",
+    "session_id": "21015",
+    "wahlperiode": "21",
+    "session_nr": "15",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 33:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOT",
+    "speech_count": 63
+  },
+  {
+    "unique_id": "21015_Zusatzpunkt",
+    "session_id": "21015",
+    "wahlperiode": "21",
+    "session_nr": "15",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 13:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Umsetzung von Vorgaben der Richtlinie (EU) 2023/2413 für Zulassungsverfahren nach dem Bundes-Immissi",
+    "speech_count": 8
+  },
+  {
+    "unique_id": "21016_Tagesordnungspunkt",
+    "session_id": "21016",
+    "wahlperiode": "21",
+    "session_nr": "16",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Haushaltsbegleitgesetzes 2025",
+    "speech_count": 1
+  },
+  {
+    "unique_id": "21016_in",
+    "session_id": "21016",
+    "wahlperiode": "21",
+    "session_nr": "16",
+    "top_id": "in",
+    "top_title": "Allgemeine Finanzdebatte (einschließlich Einzelpläne 08, 20, 32 und 60)",
+    "description": null,
+    "speech_count": 125
+  },
+  {
+    "unique_id": "21016_in",
+    "session_id": "21016",
+    "wahlperiode": "21",
+    "session_nr": "16",
+    "top_id": "in",
+    "top_title": "Einzelplan 09",
+    "description": "Bundesministerium für Wirtschaft und Energie",
+    "speech_count": 125
+  },
+  {
+    "unique_id": "21016_in",
+    "session_id": "21016",
+    "wahlperiode": "21",
+    "session_nr": "16",
+    "top_id": "in",
+    "top_title": "Einzelplan 25",
+    "description": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+    "speech_count": 125
+  },
+  {
+    "unique_id": "21016_in",
+    "session_id": "21016",
+    "wahlperiode": "21",
+    "session_nr": "16",
+    "top_id": "in",
+    "top_title": "Einzelplan 12",
+    "description": "Bundesministerium für Verkehr",
+    "speech_count": 125
+  },
+  {
+    "unique_id": "21016_in",
+    "session_id": "21016",
+    "wahlperiode": "21",
+    "session_nr": "16",
+    "top_id": "in",
+    "top_title": "Einzelplan 16",
+    "description": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "speech_count": 125
+  },
+  {
+    "unique_id": "21016_in",
+    "session_id": "21016",
+    "wahlperiode": "21",
+    "session_nr": "16",
+    "top_id": "in",
+    "top_title": "Einzelplan 10",
+    "description": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+    "speech_count": 125
+  },
+  {
+    "unique_id": "21017_Tagesordnungspunkt",
+    "session_id": "21017",
+    "wahlperiode": "21",
+    "session_nr": "17",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 64
+  },
+  {
+    "unique_id": "21017_in",
+    "session_id": "21017",
+    "wahlperiode": "21",
+    "session_nr": "17",
+    "top_id": "in",
+    "top_title": "Einzelplan 04",
+    "description": "Bundeskanzler und Bundeskanzleramt",
+    "speech_count": 91
+  },
+  {
+    "unique_id": "21017_in",
+    "session_id": "21017",
+    "wahlperiode": "21",
+    "session_nr": "17",
+    "top_id": "in",
+    "top_title": "Einzelplan 05",
+    "description": "Auswärtiges Amt",
+    "speech_count": 91
+  },
+  {
+    "unique_id": "21017_in",
+    "session_id": "21017",
+    "wahlperiode": "21",
+    "session_nr": "17",
+    "top_id": "in",
+    "top_title": "Einzelplan 14",
+    "description": "Bundesministerium der Verteidigung",
+    "speech_count": 91
+  },
+  {
+    "unique_id": "21017_in",
+    "session_id": "21017",
+    "wahlperiode": "21",
+    "session_nr": "17",
+    "top_id": "in",
+    "top_title": "Einzelplan 23",
+    "description": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+    "speech_count": 91
+  },
+  {
+    "unique_id": "21018_Tagesordnungspunkt",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Bestimmung sicherer Herkunftsstaaten durch Rechtsverordnung und zur Abschaffung des anwaltlichen Ver",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21018_Tagesordnungspunkt",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21018_Tagesordnungspunkt",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Umsetzung von Vorgaben der Richtlinie (EU) 2023/2413 für Zulassungsverfahren nach dem Bu",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21018_Tagesordnungspunkt",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21018_Zusatzpunkt",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 3:",
+    "description": "–i) Beratung der Beschlussempfehlungen des Petitionsausschusses: Sammelübersichten 14, 15, 16, 17, 18, 19, 20, 21 und 22 zu Petitionen",
+    "speech_count": 1
+  },
+  {
+    "unique_id": "21018_in",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "in",
+    "top_title": "Einzelplan 06",
+    "description": "Bundesministerium des Innern",
+    "speech_count": 124
+  },
+  {
+    "unique_id": "21018_in",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "in",
+    "top_title": "Einzelplan 07",
+    "description": "Bundesministerium der Justiz und für Verbraucherschutz",
+    "speech_count": 124
+  },
+  {
+    "unique_id": "21018_in",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "in",
+    "top_title": "Einzelplan 30",
+    "description": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+    "speech_count": 124
+  },
+  {
+    "unique_id": "21018_in",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "in",
+    "top_title": "Einzelplan 24",
+    "description": "Bundesministerium für Digitales und Staatsmodernisierung",
+    "speech_count": 124
+  },
+  {
+    "unique_id": "21018_in",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "in",
+    "top_title": "Einzelplan 17",
+    "description": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+    "speech_count": 124
+  },
+  {
+    "unique_id": "21018_in",
+    "session_id": "21018",
+    "wahlperiode": "21",
+    "session_nr": "18",
+    "top_id": "in",
+    "top_title": "Einzelplan 15",
+    "description": "Bundesministerium für Gesundheit",
+    "speech_count": 124
+  },
+  {
+    "unique_id": "21019_Tagesordnungspunkt",
+    "session_id": "21019",
+    "wahlperiode": "21",
+    "session_nr": "19",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 9:",
+    "description": "Vereinbarte Debatte: aus Anlass des 30. Jahrestages des Völkermords von Srebrenica",
+    "speech_count": 35
+  },
+  {
+    "unique_id": "21019_Tagesordnungspunkt",
+    "session_id": "21019",
+    "wahlperiode": "21",
+    "session_nr": "19",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität (SVIKG)",
+    "speech_count": 35
+  },
+  {
+    "unique_id": "21019_Zur",
+    "session_id": "21019",
+    "wahlperiode": "21",
+    "session_nr": "19",
+    "top_id": "Zur",
+    "top_title": "Zur Geschäftsordnung:",
+    "description": null,
+    "speech_count": 5
+  },
+  {
+    "unique_id": "21019_in",
+    "session_id": "21019",
+    "wahlperiode": "21",
+    "session_nr": "19",
+    "top_id": "in",
+    "top_title": "Einzelplan 11",
+    "description": "Bundesministerium für Arbeit und Soziales",
+    "speech_count": 19
+  },
+  {
+    "unique_id": "21020_Tagesordnungspunkt",
+    "session_id": "21020",
+    "wahlperiode": "21",
+    "session_nr": "20",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 2:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 161
+  },
+  {
+    "unique_id": "21020_Tagesordnungspunkt",
+    "session_id": "21020",
+    "wahlperiode": "21",
+    "session_nr": "20",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS)",
+    "speech_count": 161
+  },
+  {
+    "unique_id": "21020_Tagesordnungspunkt",
+    "session_id": "21020",
+    "wahlperiode": "21",
+    "session_nr": "20",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Antrag der Abgeordneten Leif-Erik Holm, Alexander Arpaschi, Carolin Bachmann, weiterer Abgeordneter und der Fraktion der AfD: Anstieg der Arbeitslosenzahlen ernst nehmen – Sofortige Wirtschaftswende f",
+    "speech_count": 161
+  },
+  {
+    "unique_id": "21020_Tagesordnungspunkt",
+    "session_id": "21020",
+    "wahlperiode": "21",
+    "session_nr": "20",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 17:",
+    "description": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR ASPIDES",
+    "speech_count": 161
+  },
+  {
+    "unique_id": "21020_Zusatzpunkt",
+    "session_id": "21020",
+    "wahlperiode": "21",
+    "session_nr": "20",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 1:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion der AfD: Zehn Jahre „Wir schaffen das“",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21020_Zusatzpunkt",
+    "session_id": "21020",
+    "wahlperiode": "21",
+    "session_nr": "20",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 2:",
+    "description": "Antrag der Abgeordneten Jörg Cezanne, Dr. Fabian Fahl, Janine Wissler, weiterer Abgeordneter und der Fraktion Die Linke: Klimageld – Sofort und sozial gerecht",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Befugniserweiterung und Entbürokratisierung in der Pflege",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7 (Fortsetzung):",
+    "description": null,
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "Antrag der Abgeordneten Dr. Bernd Baumann, Dr. Gottfried Curio, Dr. Christian Wirth, weiterer Abgeordneter und der Fraktion der AfD: Effektive Grenzkontrollen und Zurückweisung aller asylsuchenden Per",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 9:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in de",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 11:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung des Energiewirtschaftsgesetzes",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 12:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu dem Antrag der Abgeordneten Andreas Bleck, Dr. Michael Blos, Dr. Ingo Hahn, weiterer Abg",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Elften Gesetzes zur Änderung des Regionalisierungsgesetzes",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "Antrag der Abgeordneten Desiree Becker, Gökay Akbulut, Janina Böttger, weiterer Abgeordneter und der Fraktion Die Linke: Streichung der Wehrpflicht aus dem Grundgesetz",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Abmilderung des Trassenentgeltanstiegs bei den Eisenbahnen des Bundes",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "Antrag der Abgeordneten Martin Reichardt, Alexander Arpaschi, Carolin Bachmann, weiterer Abgeordneter und der Fraktion der AfD: Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag auf",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Kohlendioxid-Speicherungsgesetzes",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "– Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Anpassung des Batterierechts an die Verordnung (EU) 2023/1542 (Batterierecht-EU-Anpass",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Tagesordnungspunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 21:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Kultur und Medien zu dem Antrag der Fraktionen der CDU/CSU und SPD: Volksbund Deutsche Kriegsgräberfürsorge – Arbeit für Frieden und Versöhnung sich",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21021_Zusatzpunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 3:",
+    "description": "Antrag der Abgeordneten Schahina Gambir, Marcel Emmerich, Luise Amtsberg, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Aufnahmezusagen einhalten – Schutz für gefährdete Afghaninnen un",
+    "speech_count": 43
+  },
+  {
+    "unique_id": "21021_Zusatzpunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 6:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Hightech Agenda Deutschland – Mit Höchstleistungen in Forschung und Innovation Deutschland voranbringen",
+    "speech_count": 43
+  },
+  {
+    "unique_id": "21021_Zusatzpunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 7:",
+    "description": "Antrag der Abgeordneten Matthias Gastel, Dr. Paula Piechotta, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Investitionen in die Erweiterung des Schienennetzes sicherst",
+    "speech_count": 43
+  },
+  {
+    "unique_id": "21021_Zusatzpunkt",
+    "session_id": "21021",
+    "wahlperiode": "21",
+    "session_nr": "21",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 8:",
+    "description": "Antrag der Abgeordneten Markus Frohnmaier, Gerold Otten, Steffen Kotré, weiterer Abgeordneter und der Fraktion der AfD: Umbenennung des Bismarck-Zimmers im Auswärtigen Amt zurücknehmen",
+    "speech_count": 43
+  },
+  {
+    "unique_id": "21022_Tagesordnungspunkt",
+    "session_id": "21022",
+    "wahlperiode": "21",
+    "session_nr": "22",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 10:",
+    "description": "Antrag der Abgeordneten Karoline Otte, Dr. Julia Verlinden, Andreas Audretsch, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Vor Ort gut leben – Städte und Gemeinden stärken",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21022_Tagesordnungspunkt",
+    "session_id": "21022",
+    "wahlperiode": "21",
+    "session_nr": "22",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 26:",
+    "description": "Beschlussempfehlung und Bericht des Finanzausschusses zu dem Antrag der Fraktion Die Linke: Mehrwertsteuer auf Grundnahrungsmittel, Hygieneprodukte und auf Bus und Bahn abschaffen",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21022_Tagesordnungspunkt",
+    "session_id": "21022",
+    "wahlperiode": "21",
+    "session_nr": "22",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 29:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Gesetzes über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21022_Tagesordnungspunkt",
+    "session_id": "21022",
+    "wahlperiode": "21",
+    "session_nr": "22",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 31:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Entwicklung und Erprobung eines Online-Verfahrens in der Zivilgerichtsbarkeit",
+    "speech_count": 46
+  },
+  {
+    "unique_id": "21022_Zusatzpunkt",
+    "session_id": "21022",
+    "wahlperiode": "21",
+    "session_nr": "22",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 18:",
+    "description": "Antrag der Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Ulrich von Zons, weiterer Abgeordneter und der Fraktion der AfD: Änderung der Geschäftsordnung des Deutschen Bundestages – hier: Ände",
+    "speech_count": 39
+  },
+  {
+    "unique_id": "21022_Zusatzpunkt",
+    "session_id": "21022",
+    "wahlperiode": "21",
+    "session_nr": "22",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 19:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu dem Antrag der Abgeordneten Steffi Lemke, Dr. Jan-Niclas Gesenhues, Julia Schneider, wei",
+    "speech_count": 39
+  },
+  {
+    "unique_id": "21022_Zusatzpunkt",
+    "session_id": "21022",
+    "wahlperiode": "21",
+    "session_nr": "22",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 23:",
+    "description": "Erste Beratung des von den Abgeordneten Stephan Brandner, Thomas Fetsch, Rainer Galla, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Abschaffung des § 188 de",
+    "speech_count": 39
+  },
+  {
+    "unique_id": "21022_Zusatzpunkt",
+    "session_id": "21022",
+    "wahlperiode": "21",
+    "session_nr": "22",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 20:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN: Herbst des Klimaschutzes",
+    "speech_count": 39
+  },
+  {
+    "unique_id": "21023_I.10",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "I.10",
+    "top_title": "I.10\tEinzelplan 17",
+    "description": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+    "speech_count": 20
+  },
+  {
+    "unique_id": "21023_I.11",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "I.11",
+    "top_title": "I.11\tEinzelplan 12",
+    "description": "Bundesministerium für Verkehr",
+    "speech_count": 18
+  },
+  {
+    "unique_id": "21023_I.5",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "I.5",
+    "top_title": "I.5\tEinzelplan 09",
+    "description": "Bundesministerium für Wirtschaft und Energie",
+    "speech_count": 19
+  },
+  {
+    "unique_id": "21023_I.6",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "I.6",
+    "top_title": "I.6\tEinzelplan 25",
+    "description": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+    "speech_count": 17
+  },
+  {
+    "unique_id": "21023_I.7",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "I.7",
+    "top_title": "I.7\tEinzelplan 24",
+    "description": "Bundesministerium für Digitales und Staatsmodernisierung",
+    "speech_count": 17
+  },
+  {
+    "unique_id": "21023_I.8",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "I.8",
+    "top_title": "I.8\tEinzelplan 16",
+    "description": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "speech_count": 21
+  },
+  {
+    "unique_id": "21023_I.9",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "I.9",
+    "top_title": "I.9\tEinzelplan 10",
+    "description": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+    "speech_count": 18
+  },
+  {
+    "unique_id": "21023_Zur",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "Zur",
+    "top_title": "Zur Geschäftsordnung:",
+    "description": "Feststellung der Tagesordnung",
+    "speech_count": 2
+  },
+  {
+    "unique_id": "21023_in",
+    "session_id": "21023",
+    "wahlperiode": "21",
+    "session_nr": "23",
+    "top_id": "in",
+    "top_title": "b)\tEinzelplan 20",
+    "description": "Bundesrechnungshof",
+    "speech_count": 16
+  },
+  {
+    "unique_id": "21024_I.13",
+    "session_id": "21024",
+    "wahlperiode": "21",
+    "session_nr": "24",
+    "top_id": "I.13",
+    "top_title": "I.13\tEinzelplan 05",
+    "description": "Auswärtiges Amt",
+    "speech_count": 18
+  },
+  {
+    "unique_id": "21024_I.14",
+    "session_id": "21024",
+    "wahlperiode": "21",
+    "session_nr": "24",
+    "top_id": "I.14",
+    "top_title": "I.14\tEinzelplan 14",
+    "description": "Bundesministerium der Verteidigung",
+    "speech_count": 16
+  },
+  {
+    "unique_id": "21024_I.15",
+    "session_id": "21024",
+    "wahlperiode": "21",
+    "session_nr": "24",
+    "top_id": "I.15",
+    "top_title": "I.15\tEinzelplan 23",
+    "description": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+    "speech_count": 21
+  },
+  {
+    "unique_id": "21024_I.16",
+    "session_id": "21024",
+    "wahlperiode": "21",
+    "session_nr": "24",
+    "top_id": "I.16",
+    "top_title": "I.16\tEinzelplan 30",
+    "description": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+    "speech_count": 17
+  },
+  {
+    "unique_id": "21024_I.17",
+    "session_id": "21024",
+    "wahlperiode": "21",
+    "session_nr": "24",
+    "top_id": "I.17",
+    "top_title": "I.17\tEinzelplan 11",
+    "description": "Bundesministerium für Arbeit und Soziales",
+    "speech_count": 18
+  },
+  {
+    "unique_id": "21024_I.18",
+    "session_id": "21024",
+    "wahlperiode": "21",
+    "session_nr": "24",
+    "top_id": "I.18",
+    "top_title": "I.18\tEinzelplan 15",
+    "description": "Bundesministerium für Gesundheit",
+    "speech_count": 23
+  },
+  {
+    "unique_id": "21024_in",
+    "session_id": "21024",
+    "wahlperiode": "21",
+    "session_nr": "24",
+    "top_id": "in",
+    "top_title": "b)\tEinzelplan 22",
+    "description": "Unabhängiger Kontrollrat",
+    "speech_count": 34
+  },
+  {
+    "unique_id": "21025_II",
+    "session_id": "21025",
+    "wahlperiode": "21",
+    "session_nr": "25",
+    "top_id": "II",
+    "top_title": "Tagesordnungspunkt II:",
+    "description": "Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Haushaltsbegleitgesetzes 2025",
+    "speech_count": 18
+  },
+  {
+    "unique_id": "21025_in",
+    "session_id": "21025",
+    "wahlperiode": "21",
+    "session_nr": "25",
+    "top_id": "in",
+    "top_title": "b)\tEinzelplan 21",
+    "description": "Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+    "speech_count": 34
+  },
+  {
+    "unique_id": "21025_in",
+    "session_id": "21025",
+    "wahlperiode": "21",
+    "session_nr": "25",
+    "top_id": "in",
+    "top_title": "b)\tEinzelplan 19",
+    "description": "Bundesverfassungsgericht",
+    "speech_count": 34
+  },
+  {
+    "unique_id": "21026_Tagesordnungspunkt",
+    "session_id": "21026",
+    "wahlperiode": "21",
+    "session_nr": "26",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2026 (Haushaltsgesetz 2026 – HG 2026)",
+    "speech_count": 1
+  },
+  {
+    "unique_id": "21026_Zur",
+    "session_id": "21026",
+    "wahlperiode": "21",
+    "session_nr": "26",
+    "top_id": "Zur",
+    "top_title": "Zur Geschäftsordnung:",
+    "description": "Feststellung der Tagesordnung",
+    "speech_count": 5
+  },
+  {
+    "unique_id": "21026_in",
+    "session_id": "21026",
+    "wahlperiode": "21",
+    "session_nr": "26",
+    "top_id": "in",
+    "top_title": "Allgemeine Finanzdebatte (einschließlich Einzelpläne 08, 20, 32 und 60)",
+    "description": null,
+    "speech_count": 97
+  },
+  {
+    "unique_id": "21026_in",
+    "session_id": "21026",
+    "wahlperiode": "21",
+    "session_nr": "26",
+    "top_id": "in",
+    "top_title": "Einzelplan 12",
+    "description": "Bundesministerium für Verkehr",
+    "speech_count": 97
+  },
+  {
+    "unique_id": "21026_in",
+    "session_id": "21026",
+    "wahlperiode": "21",
+    "session_nr": "26",
+    "top_id": "in",
+    "top_title": "Einzelplan 25",
+    "description": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+    "speech_count": 97
+  },
+  {
+    "unique_id": "21026_in",
+    "session_id": "21026",
+    "wahlperiode": "21",
+    "session_nr": "26",
+    "top_id": "in",
+    "top_title": "Einzelplan 15",
+    "description": "Bundesministerium für Gesundheit",
+    "speech_count": 97
+  },
+  {
+    "unique_id": "21026_in",
+    "session_id": "21026",
+    "wahlperiode": "21",
+    "session_nr": "26",
+    "top_id": "in",
+    "top_title": "Einzelplan 10",
+    "description": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+    "speech_count": 97
+  },
+  {
+    "unique_id": "21027_in",
+    "session_id": "21027",
+    "wahlperiode": "21",
+    "session_nr": "27",
+    "top_id": "in",
+    "top_title": "Einzelplan 04",
+    "description": "Bundeskanzler und Bundeskanzleramt",
+    "speech_count": 87
+  },
+  {
+    "unique_id": "21027_in",
+    "session_id": "21027",
+    "wahlperiode": "21",
+    "session_nr": "27",
+    "top_id": "in",
+    "top_title": "Einzelplan 05",
+    "description": "Auswärtiges Amt",
+    "speech_count": 87
+  },
+  {
+    "unique_id": "21027_in",
+    "session_id": "21027",
+    "wahlperiode": "21",
+    "session_nr": "27",
+    "top_id": "in",
+    "top_title": "Einzelplan 14",
+    "description": "Bundesministerium der Verteidigung",
+    "speech_count": 87
+  },
+  {
+    "unique_id": "21027_in",
+    "session_id": "21027",
+    "wahlperiode": "21",
+    "session_nr": "27",
+    "top_id": "in",
+    "top_title": "Einzelplan 23",
+    "description": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+    "speech_count": 87
+  },
+  {
+    "unique_id": "21029_Schlussrunde:",
+    "session_id": "21029",
+    "wahlperiode": "21",
+    "session_nr": "29",
+    "top_id": "Schlussrunde:",
+    "top_title": "Schlussrunde:",
+    "description": "Haushaltsgesetz 2026",
+    "speech_count": 19
+  },
+  {
+    "unique_id": "21029_in",
+    "session_id": "21029",
+    "wahlperiode": "21",
+    "session_nr": "29",
+    "top_id": "in",
+    "top_title": "Einzelplan 11",
+    "description": "Bundesministerium für Arbeit und Soziales",
+    "speech_count": 41
+  },
+  {
+    "unique_id": "21029_in",
+    "session_id": "21029",
+    "wahlperiode": "21",
+    "session_nr": "29",
+    "top_id": "in",
+    "top_title": "Einzelplan 09",
+    "description": "Bundesministerium für Wirtschaft und Energie",
+    "speech_count": 41
+  },
+  {
+    "unique_id": "21030_Tagesordnungspunkt",
+    "session_id": "21030",
+    "wahlperiode": "21",
+    "session_nr": "30",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21030_Tagesordnungspunkt",
+    "session_id": "21030",
+    "wahlperiode": "21",
+    "session_nr": "30",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Sechsten Gesetzes zur Änderung des Staatsangehörigkeitsgesetzes",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21030_Tagesordnungspunkt",
+    "session_id": "21030",
+    "wahlperiode": "21",
+    "session_nr": "30",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Antrag der Abgeordneten Katharina Beck, Dr. Moritz Heuberger, Max Lucks, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Gerechtigkeitslücken im Steuersystem schließen –Ausnahmen bei Erb",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21030_Tagesordnungspunkt",
+    "session_id": "21030",
+    "wahlperiode": "21",
+    "session_nr": "30",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Steueränderungsgesetzes 2025",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21030_Tagesordnungspunkt",
+    "session_id": "21030",
+    "wahlperiode": "21",
+    "session_nr": "30",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Antrag der Abgeordneten Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof, weiterer Abgeordneter und der Fraktion der AfD: Reform der Politikerpensionen – Bundestagsabgeordnete in die gesetzliche ",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21030_Zusatzpunkt",
+    "session_id": "21030",
+    "wahlperiode": "21",
+    "session_nr": "30",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 1:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Zwei Jahre nach dem Hamasterror und Kriegsbeginn in Gaza – Chance auf Frieden in Nahost ergreifen",
+    "speech_count": 14
+  },
+  {
+    "unique_id": "21031_Anlage",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Anlage",
+    "top_title": "Anlage 2",
+    "description": "Zu Protokoll gegebene Rede zur Beratung",
+    "speech_count": 1
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anpassung des nationalen Rechts an die Reform des Gemeinsamen Europäischen Asylsystems (GEAS-Anpassungsgesetz)",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 9:",
+    "description": "– Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 10:",
+    "description": "Antrag der Abgeordneten Dr. Gottfried Curio, Dr. Bernd Baumann, Christopher Drößler, weiterer Abgeordneter und der Fraktion der AfD: Die Migrationswende hinsichtlich Syriens umsetzen – Die weitere Auf",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 12:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Einführung einer bundeseinheitlichen Pflegefachassistenzausbildung",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "Antrag der Abgeordneten Mandy Eißing, Zada Salihović, Ina Latendorf, weiterer Abgeordneter und der Fraktion Die Linke: 35 Jahre Deutsche Einheit – Gleichwertige Lebensverhältnisse in Ost wie West jetz",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 36:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Beschleunigung der Vergabe öffentlicher Aufträge",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Antrag der Abgeordneten Jörn König, Thomas Korell, Lars Schieske, weiterer Abgeordneter und der Fraktion der AfD: Bundesweite Sanierung von Sportstätten muss zeitnah durchgeführt werden",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 17:",
+    "description": "Antrag der Abgeordneten Birgit Bessin, Martin Reichardt, Sebastian Maack, weiterer Abgeordneter und der Fraktion der AfD: Dem deutschen Volke – Unsere Zukunft gestalten und durch geeignete Familienpol",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Ausführung von Artikel 109 Absatz 3 Satz 6 und Satz 7 des Grundgesetzes und zur Änderung anderer Gese",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "Antrag der Abgeordneten Corinna Rüffer, Timon Dzienus, Leon Eckert, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Selbstbestimmung sichern und Teilhabe stärken – Die Fortschritte des B",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 20:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Energiesteuer- und des Stromsteuergesetzes",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 21:",
+    "description": "Antrag der Abgeordneten Martin Sichert, Dr. Christina Baum, Carina Schießl, weiterer Abgeordneter und der Fraktion der AfD: Akute Not der gesetzlichen Krankenversicherung lindern – Vollständige Finanz",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Tagesordnungspunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 22:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Militärischen Sicherheit in der Bundeswehr",
+    "speech_count": 126
+  },
+  {
+    "unique_id": "21031_Zusatzpunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 2:",
+    "description": "Erste Beratung des von den Abgeordneten Helge Limburg, Nyke Slawik, Dr. Till Steffen, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung de",
+    "speech_count": 28
+  },
+  {
+    "unique_id": "21031_Zusatzpunkt",
+    "session_id": "21031",
+    "wahlperiode": "21",
+    "session_nr": "31",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 5:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion der AfD: Deutsches Nein zur EU-Chatkontrolle",
+    "speech_count": 28
+  },
+  {
+    "unique_id": "21032_Tagesordnungspunkt",
+    "session_id": "21032",
+    "wahlperiode": "21",
+    "session_nr": "32",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 32:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Tarifautonomie durch die Sicherung von Tariftreue bei der Vergabe öffentlicher Aufträge des Bundes (Ta",
+    "speech_count": 37
+  },
+  {
+    "unique_id": "21032_Tagesordnungspunkt",
+    "session_id": "21032",
+    "wahlperiode": "21",
+    "session_nr": "32",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 34:",
+    "description": "Antrag der Fraktionen der CDU/CSU und SPD: 35 Jahre Deutsche Einheit – Freiheit in Deutschland und Europa festigen",
+    "speech_count": 37
+  },
+  {
+    "unique_id": "21032_Tagesordnungspunkt",
+    "session_id": "21032",
+    "wahlperiode": "21",
+    "session_nr": "32",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 35:",
+    "description": "Antrag der Abgeordneten Mandy Eißing, Nicole Gohlke, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke: Mindestbetrag des Elterngelds erhöhen – Familien und ihre Kinder stärken",
+    "speech_count": 37
+  },
+  {
+    "unique_id": "21032_Tagesordnungspunkt",
+    "session_id": "21032",
+    "wahlperiode": "21",
+    "session_nr": "32",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 38:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes für einen Zuschuss zu den Übertragungsnetzkosten für das Jahr 2026",
+    "speech_count": 37
+  },
+  {
+    "unique_id": "21032_Zusatzpunkt",
+    "session_id": "21032",
+    "wahlperiode": "21",
+    "session_nr": "32",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 11:",
+    "description": "Erste Beratung des von den Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Stefan Möller, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Stärkung der ",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21032_Zusatzpunkt",
+    "session_id": "21032",
+    "wahlperiode": "21",
+    "session_nr": "32",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 6:",
+    "description": "Antrag der Abgeordneten Claudia Roth, Dr. Sandra Detzer, Agnieszka Brugger, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Wirtschaftspartnerschaftsabkommen mit Afrika – Chancen für fai",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21032_Zusatzpunkt",
+    "session_id": "21032",
+    "wahlperiode": "21",
+    "session_nr": "32",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 9:",
+    "description": "Beschlussempfehlung und Bericht des Verkehrsausschusses zu dem Antrag der Abgeordneten Matthias Gastel, Swantje Henrike Michaelsen, Tarek Al-Wazir, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DI",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21032_Zusatzpunkt",
+    "session_id": "21032",
+    "wahlperiode": "21",
+    "session_nr": "32",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 10:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion Die Linke: Soziale und ökologische Industriepolitik – Arbeitsplätze schützen, Zukunft gerecht gestalten",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21033_Tagesordnungspunkt",
+    "session_id": "21033",
+    "wahlperiode": "21",
+    "session_nr": "33",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21033_Tagesordnungspunkt",
+    "session_id": "21033",
+    "wahlperiode": "21",
+    "session_nr": "33",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR MED IRINI",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21033_Tagesordnungspunkt",
+    "session_id": "21033",
+    "wahlperiode": "21",
+    "session_nr": "33",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Antrag der Abgeordneten Markus Frohnmaier, Dr. Alexander Wolf, Rocco Kever, weiterer Abgeordneter und der Fraktion der AfD: Für Transparenz und Aufklärung sorgen – Der Öffentlichkeit einen vollständig",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21033_Tagesordnungspunkt",
+    "session_id": "21033",
+    "wahlperiode": "21",
+    "session_nr": "33",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN",
+    "speech_count": 159
+  },
+  {
+    "unique_id": "21033_Zur",
+    "session_id": "21033",
+    "wahlperiode": "21",
+    "session_nr": "33",
+    "top_id": "Zur",
+    "top_title": "Zur Geschäftsordnung:",
+    "description": "Feststellung der Tagesordnung",
+    "speech_count": 5
+  },
+  {
+    "unique_id": "21033_Zusatzpunkt",
+    "session_id": "21033",
+    "wahlperiode": "21",
+    "session_nr": "33",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 1:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Bedrohungslage Deutschlands ernst nehmen",
+    "speech_count": 25
+  },
+  {
+    "unique_id": "21033_Zusatzpunkt",
+    "session_id": "21033",
+    "wahlperiode": "21",
+    "session_nr": "33",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 2:",
+    "description": "Antrag der Abgeordneten Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt, weiterer Abgeordneter und der Fraktion Die Linke: Keine Leistungskürzungen in der Pflege",
+    "speech_count": 25
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "Abgabe einer Regierungserklärung durch den Bundeskanzler: Zum Europäischen Rat am 23. und 24. Oktober 2025 in Brüssel",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "Antrag der Abgeordneten Martin Hess, Stephan Brandner, Dr. Gottfried Curio, weiterer Abgeordneter und der Fraktion der AfD: Inneren Frieden in Deutschland bewahren – Antifa-Verbote umsetzen sowie Link",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 10:",
+    "description": "Erste Beratung des von den Abgeordneten Dr. Janosch Dahmen, Dr. Kirsten Kappert-Gonther, Dr. Armin Grau, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Geset",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 34:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Finanzausgleichsgesetzes 2025 (FAG-Änderungsgesetz 2025)",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 9:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Modernisierung des Wehrdienstes – Wehrdienst-Modernisierungsgesetz (WDModG)",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "Antrag der Abgeordneten René Springer, Peter Bohnhof, Gerrit Huy, weiterer Abgeordneter und der Fraktion der AfD: Bürgergeldleistungen stoppen bei Haftbefehlen – Keine Unterstützung für gesuchte Straf",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 12:",
+    "description": "Bericht des Petitionsausschusses: Bitten und Beschwerden an den Deutschen Bundestag – Die Tätigkeit des Petitionsausschusses des Deutschen Bundestages im Jahr 2024",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Antrag der Abgeordneten Nicole Gohlke, Doris Achelwilm, Dr. Michael Arndt, weiterer Abgeordneter und der Fraktion Die Linke: Bildungsfinanzierung dauerhaft sichern – Kooperationsverbot abschaffen",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union gefüh",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Tagesordnungspunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "Antrag der Abgeordneten Felix Banaszak, Dr. Sandra Detzer, Katrin Uhlig, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Stahlstandorte stärken – wettbewerbsfähig und klimaneutral",
+    "speech_count": 102
+  },
+  {
+    "unique_id": "21034_Zusatzpunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 4:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Stärkung der betrieblichen Altersversorgung und zur Änderung anderer Gesetze (Zweites Betriebsrentenstärkun",
+    "speech_count": 35
+  },
+  {
+    "unique_id": "21034_Zusatzpunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 8:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion der AfD: Wirtschaftskrise in Deutschland stoppen, Warnsignale von Bosch und Lufthansa ernst nehmen",
+    "speech_count": 35
+  },
+  {
+    "unique_id": "21034_Zusatzpunkt",
+    "session_id": "21034",
+    "wahlperiode": "21",
+    "session_nr": "34",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 9:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie zu dem Antrag der Abgeordneten Leif-Erik Holm, Marc Bernhard, Peter Boehringer, weiterer Abgeordneter und der Fraktion der Af",
+    "speech_count": 35
+  },
+  {
+    "unique_id": "21035_Tagesordnungspunkt",
+    "session_id": "21035",
+    "wahlperiode": "21",
+    "session_nr": "35",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 26:",
+    "description": "Unterrichtung durch die Bundesregierung: Modernisierungsagenda für Staat und Verwaltung (Bund) – Für ein schnelles, digitales und handlungsfähiges Deutschland",
+    "speech_count": 44
+  },
+  {
+    "unique_id": "21035_Tagesordnungspunkt",
+    "session_id": "21035",
+    "wahlperiode": "21",
+    "session_nr": "35",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 28:",
+    "description": "Unterrichtung durch die Bundesregierung: Bericht der Beauftragten der Bundesregierung für Ostdeutschland 2025 35 Jahre: Aufgewachsen in Einheit?",
+    "speech_count": 44
+  },
+  {
+    "unique_id": "21035_Tagesordnungspunkt",
+    "session_id": "21035",
+    "wahlperiode": "21",
+    "session_nr": "35",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 29:",
+    "description": "Antrag der Abgeordneten Ayse Asar, Dr. Andrea Lübcke, Claudia Müller, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Bildung bezahlbar machen – BAföG-Reform jetzt",
+    "speech_count": 44
+  },
+  {
+    "unique_id": "21035_Tagesordnungspunkt",
+    "session_id": "21035",
+    "wahlperiode": "21",
+    "session_nr": "35",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 32:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Gesetzes gegen den unlauteren Wettbewerb",
+    "speech_count": 44
+  },
+  {
+    "unique_id": "21035_Zusatzpunkt",
+    "session_id": "21035",
+    "wahlperiode": "21",
+    "session_nr": "35",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 15:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales zu dem Antrag der Abgeordneten Anne Zerr, Doris Achelwilm, Dr. Dietmar Bartsch, weiterer Abgeordneter und der Fraktion Die Linke",
+    "speech_count": 39
+  },
+  {
+    "unique_id": "21035_Zusatzpunkt",
+    "session_id": "21035",
+    "wahlperiode": "21",
+    "session_nr": "35",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 17:",
+    "description": "Antrag der Abgeordneten Pierre Lamely, Ruben Rupp, Tobias Teich, weiterer Abgeordneter und der Fraktion der AfD: Privatsphäre schützen – Nein zur EU-Chatkontrolle",
+    "speech_count": 39
+  },
+  {
+    "unique_id": "21035_Zusatzpunkt",
+    "session_id": "21035",
+    "wahlperiode": "21",
+    "session_nr": "35",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 16:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN: Erster Klimakipppunkt laut internationaler Studie überschritten – Konsequenzen für das Handeln der Bundesregierung",
+    "speech_count": 39
+  },
+  {
+    "unique_id": "21036_Tagesordnungspunkt",
+    "session_id": "21036",
+    "wahlperiode": "21",
+    "session_nr": "36",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 155
+  },
+  {
+    "unique_id": "21036_Tagesordnungspunkt",
+    "session_id": "21036",
+    "wahlperiode": "21",
+    "session_nr": "36",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "Antrag der Fraktionen der CDU/CSU und SPD: Klimakonferenz in Belém – Neuer Schwung für den internationalen Klimaschutz",
+    "speech_count": 155
+  },
+  {
+    "unique_id": "21036_Tagesordnungspunkt",
+    "session_id": "21036",
+    "wahlperiode": "21",
+    "session_nr": "36",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Antrag der Abgeordneten Dr. Anna Lührmann, Karoline Otte, Misbah Khan, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Digitalabgabe für Werbeumsätze einführen – Medienvielfalt und Kultu",
+    "speech_count": 155
+  },
+  {
+    "unique_id": "21036_Tagesordnungspunkt",
+    "session_id": "21036",
+    "wahlperiode": "21",
+    "session_nr": "36",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur effektiveren Ahndung und Bekämpfung von Straftaten im Zusammenhang mit explosionsgefährlichen Stoffen",
+    "speech_count": 155
+  },
+  {
+    "unique_id": "21036_Zusatzpunkt",
+    "session_id": "21036",
+    "wahlperiode": "21",
+    "session_nr": "36",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 1:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Auswirkungen des Verhältnisses der AfD zu Russland auf Deutschlands Sicherheitsinteressen – Kein Patriotismus, sondern mögliche Gefähr",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21036_Zusatzpunkt",
+    "session_id": "21036",
+    "wahlperiode": "21",
+    "session_nr": "36",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 2:",
+    "description": "Beratung des Antrags der Abgeordneten Matthias Helferich, Ronald Gläser, Dr. Götz Frömming, weiterer Abgeordneter und der Fraktion der AfD: Den Deutschen Verlagspreis grundlegend reformieren – Keine S",
+    "speech_count": 31
+  },
+  {
+    "unique_id": "21037_Anlage",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Anlage",
+    "top_title": "Anlage 3",
+    "description": "Zu Protokoll gegebene Rede zur Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2023/2226",
+    "speech_count": 1
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7 (Fortsetzung):",
+    "description": null,
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "Antrag der Abgeordneten Agnieszka Brugger, Deborah Düring, Claudia Roth, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: 25 Jahre UN-Resolution 1325 „Frauen, Frieden und Sicherheit“ – Fe",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung des Energiewirtschaftsgesetzes",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14 (Fortsetzung):",
+    "description": null,
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "Zweite und dritte Beratung des von der Fraktion Die Linke eingebrachten Entwurfs eines Gesetzes zur besseren Bekämpfung überhöhter Mieten (Mietwuchergesetz)",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 12:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Kohlendioxid-Speicherungsgesetzes",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Gesundheit zu dem Antrag der Abgeordneten Martin Sichert, Dr. Christina Baum, Carina Schießl, weiterer Abgeordneter und der Fraktion der AfD: Zuwand",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Aufhebung der Freizone Cuxhaven und zur Änderung weiterer Vorschriften",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Antrag der Abgeordneten Stefan Keuter, René Springer, Jan Wenzel Schmidt, weiterer Abgeordneter und der Fraktion der AfD: Afghanistan – Für eine neue Realpolitik",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 18:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Beschleunigung der Verfügbarkeit von Wasserstoff und zur Änderung weiterer rechtlicher Rahmenbedingungen für den Wa",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "Antrag der Abgeordneten Dr. Zoe Mayer, Karl Bär, Dr. Ophelia Nick, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Frei benennen, klar erkennen – Bezeichnungsverbote für Fleischalternati",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Tagesordnungspunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 20:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2023/2226",
+    "speech_count": 104
+  },
+  {
+    "unique_id": "21037_Zusatzpunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 3:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Gesundheit zu dem Antrag der Abgeordneten Ates Gürpinar, Doris Achelwilm, Dr. Michael Arndt, weiterer Abgeordneter und der Fraktion Die Linke: Leist",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21037_Zusatzpunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 4:",
+    "description": "Beschlussempfehlung und Bericht des Finanzausschusses zu dem Antrag der Abgeordneten Martin Reichardt, Kay Gottschalk, Jan Wenzel Schmidt, weiterer Abgeordneter und der Fraktion der AfD: Familien entl",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21037_Zusatzpunkt",
+    "session_id": "21037",
+    "wahlperiode": "21",
+    "session_nr": "37",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 10:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion der AfD: Innere Sicherheit erhöhen, konsequent zurückführen und deutsche Leitkultur stärken – Konkrete Maßnahmen für ein besseres Stadtbild",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21038_Tagesordnungspunkt",
+    "session_id": "21038",
+    "wahlperiode": "21",
+    "session_nr": "38",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 29:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Förderung privater Investitionen und des Finanzstandorts (Standortfördergesetz – StoFöG)",
+    "speech_count": 55
+  },
+  {
+    "unique_id": "21038_Tagesordnungspunkt",
+    "session_id": "21038",
+    "wahlperiode": "21",
+    "session_nr": "38",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 30:",
+    "description": "Antrag der Abgeordneten Marc Bernhard, Leif-Erik Holm, Steffen Kotré, weiterer Abgeordneter und der Fraktion der AfD: 180-Grad-Wende bei Windindustrie und Photovoltaik einleiten",
+    "speech_count": 55
+  },
+  {
+    "unique_id": "21038_Tagesordnungspunkt",
+    "session_id": "21038",
+    "wahlperiode": "21",
+    "session_nr": "38",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 32:",
+    "description": "Antrag der Abgeordneten Charlotte Antonia Neuhäuser, Doris Achelwilm, Desiree Becker, weiterer Abgeordneter und der Fraktion Die Linke: Den zweiten UN-Weltgipfel für soziale Entwicklung stark machen –",
+    "speech_count": 55
+  },
+  {
+    "unique_id": "21038_Tagesordnungspunkt",
+    "session_id": "21038",
+    "wahlperiode": "21",
+    "session_nr": "38",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 33:",
+    "description": "Vereinbarte Debatte: 80 Jahre Vereinte Nationen",
+    "speech_count": 55
+  },
+  {
+    "unique_id": "21038_Tagesordnungspunkt",
+    "session_id": "21038",
+    "wahlperiode": "21",
+    "session_nr": "38",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 35:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Produktsicherheitsgesetzes und weiterer produktsicherheitsrechtlicher Vorschriften",
+    "speech_count": 55
+  },
+  {
+    "unique_id": "21038_Zusatzpunkt",
+    "session_id": "21038",
+    "wahlperiode": "21",
+    "session_nr": "38",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 8:",
+    "description": "Beschlussempfehlung und Bericht des Verkehrsausschusses zu dem Antrag der Abgeordneten Victoria Broßart, Tarek Al-Wazir, Matthias Gastel, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: ",
+    "speech_count": 33
+  },
+  {
+    "unique_id": "21038_Zusatzpunkt",
+    "session_id": "21038",
+    "wahlperiode": "21",
+    "session_nr": "38",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 9:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Wohnen, Stadtentwicklung, Bauwesen und Kommunen zu dem Antrag der Abgeordneten Karoline Otte, Dr. Julia Verlinden, Andreas Audretsch, weiterer Abgeo",
+    "speech_count": 33
+  },
+  {
+    "unique_id": "21038_Zusatzpunkt",
+    "session_id": "21038",
+    "wahlperiode": "21",
+    "session_nr": "38",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 7:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN: Lage im Sudan",
+    "speech_count": 33
+  },
+  {
+    "unique_id": "21039_Tagesordnungspunkt",
+    "session_id": "21039",
+    "wahlperiode": "21",
+    "session_nr": "39",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 153
+  },
+  {
+    "unique_id": "21039_Tagesordnungspunkt",
+    "session_id": "21039",
+    "wahlperiode": "21",
+    "session_nr": "39",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "Vereinbarte Debatte: 70. Gründungsjubiläum der Bundeswehr",
+    "speech_count": 153
+  },
+  {
+    "unique_id": "21039_Tagesordnungspunkt",
+    "session_id": "21039",
+    "wahlperiode": "21",
+    "session_nr": "39",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Antrag der Abgeordneten Stephan Brandner, Tobias Matthias Peterka, Thomas Fetsch, weiterer Abgeordneter und der Fraktion der AfD: Staatliche Finanzierung der Amadeu Antonio Stiftung aus Bundesmitteln ",
+    "speech_count": 153
+  },
+  {
+    "unique_id": "21039_Tagesordnungspunkt",
+    "session_id": "21039",
+    "wahlperiode": "21",
+    "session_nr": "39",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anpassung der Krankenhausreform (Krankenhausreformanpassungsgesetz – KHAG)",
+    "speech_count": 153
+  },
+  {
+    "unique_id": "21039_Tagesordnungspunkt",
+    "session_id": "21039",
+    "wahlperiode": "21",
+    "session_nr": "39",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Antrag der Abgeordneten Maik Brückner, Clara Bünger, Nicole Gohlke, weiterer Abgeordneter und der Fraktion Die Linke: Queeres Leben stärken – Christopher-Street-Days schützen",
+    "speech_count": 153
+  },
+  {
+    "unique_id": "21039_Zusatzpunkt",
+    "session_id": "21039",
+    "wahlperiode": "21",
+    "session_nr": "39",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 1:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion der AfD: Mögliche Urheberrechtsverletzungen und Interessenskonflikte des Bundesbeauftragten für Kultur und Medien",
+    "speech_count": 16
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 31:",
+    "description": "Unterrichtung durch die Bundesregierung: Hightech Agenda Deutschland",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "– Zweite und dritte Beratung des von den Abgeordneten Karsten Hilse, Steffen Kotré, Dr. Rainer Kraft, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Beseitigu",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 10:",
+    "description": "Antrag der Abgeordneten Dr. Sandra Detzer, Andreas Audretsch, Dr. Julia Verlinden, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Wirtschaft 2045 – Innovationen stärken, Zukunftstechnol",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 39:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Überleitung öffentlicher Aufgaben bei Umwandlungsmaßnahmen der Deutsche Post AG sowie zur Änderung weit",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 12:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsman",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 36:",
+    "description": "Antrag der Abgeordneten Bernd Schattner, Marc Bernhard, René Springer, weiterer Abgeordneter und der Fraktion der AfD: Abwanderung der deutschen Industrie ins Ausland stoppen",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union gefüh",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Erste Beratung des von den Abgeordneten Luke Hoß, Clara Bünger, Violetta Bock, weiteren Abgeordneten und der Fraktion Die Linke eingebrachten Entwurfs eines Gesetzes zur Änderung des Strafgesetzbuchs ",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherhe",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 17:",
+    "description": "Antrag der Abgeordneten Dr. Malte Kaufmann, Leif-Erik Holm, Steffen Kotré, weiterer Abgeordneter und der Fraktion der AfD: Marktbasierte Resilienz – Versorgung mit kritischen Rohstoffen durch wirtscha",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 33:",
+    "description": "Antrag der Fraktionen der CDU/CSU und SPD: Einsetzung einer Kommission zur Überprüfung der sicherheitsrelevanten Wirtschaftsbeziehungen zwischen Deutschland und China",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "Erste Beratung des von den Abgeordneten Max Lucks, Filiz Polat, Deborah Düring, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung des Aufe",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 21:",
+    "description": "Antrag der Abgeordneten Kay Gottschalk, Jan Wenzel Schmidt, Hauke Finger, weiterer Abgeordneter und der Fraktion der AfD: Politisch motivierte Kontokündigungen durch Banken verbieten",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Tagesordnungspunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 18:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Abmilderung des Trassenentgeltanstiegs bei den Eisenbahnen des Bundes",
+    "speech_count": 120
+  },
+  {
+    "unique_id": "21040_Zusatzpunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 16:",
+    "description": "Antrag der Abgeordneten Kay Gottschalk, Hauke Finger, Torben Braga, weiterer Abgeordneter und der Fraktion der AfD: Rückforderungslücken bei Cum-Ex und Cum-Cum schließen",
+    "speech_count": 33
+  },
+  {
+    "unique_id": "21040_Zusatzpunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 4:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Wettbewerbsfähige Industrie – Entlastung durch Netzentgeltsenkung und Industriestrompreis",
+    "speech_count": 33
+  },
+  {
+    "unique_id": "21040_Zusatzpunkt",
+    "session_id": "21040",
+    "wahlperiode": "21",
+    "session_nr": "40",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 6:",
+    "description": "Beschlussempfehlung und Bericht des Finanzausschusses zu dem Antrag der Abgeordneten Jan Wenzel Schmidt, Kay Gottschalk, Hauke Finger, weiterer Abgeordneter und der Fraktion der AfD: Bürger, Mittelsta",
+    "speech_count": 33
+  },
+  {
+    "unique_id": "21041_Tagesordnungspunkt",
+    "session_id": "21041",
+    "wahlperiode": "21",
+    "session_nr": "41",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur steuerlichen Förderung von Arbeitnehmerinnen und Arbeitnehmern im Rentenalter (Aktivrentengesetz)",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21041_Tagesordnungspunkt",
+    "session_id": "21041",
+    "wahlperiode": "21",
+    "session_nr": "41",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 34:",
+    "description": "Antrag der Abgeordneten Rebecca Lenhard, Dr. Konstantin von Notz, Dr. Anna Lührmann, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Strategie zur digitalen Souveränität – Für eine selbs",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21041_Tagesordnungspunkt",
+    "session_id": "21041",
+    "wahlperiode": "21",
+    "session_nr": "41",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "Antrag der Abgeordneten Gerrit Huy, René Springer, Peter Bohnhof, weiterer Abgeordneter und der Fraktion der AfD: Dauerduldungen unattraktiver machen durch Abschaffung der Analogleistungen nach § 2 de",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21041_Zusatzpunkt",
+    "session_id": "21041",
+    "wahlperiode": "21",
+    "session_nr": "41",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 11:",
+    "description": "Antrag der Abgeordneten Sarah Vollath, Janine Wissler, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke: Bundestagsabgeordnete vollumfänglich in die gesetzliche Rentenversicherung ein",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21041_Zusatzpunkt",
+    "session_id": "21041",
+    "wahlperiode": "21",
+    "session_nr": "41",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 12:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über den Zugang zu Schuldnerberatungsdiensten für Verbraucher (Schuldnerberatungsdienstegesetz – SchuBerDG)",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21041_Zusatzpunkt",
+    "session_id": "21041",
+    "wahlperiode": "21",
+    "session_nr": "41",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 13:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Durchführung der Reform und Erweiterung des Schutzes geografischer Angaben (Geoschutzreformgesetz)",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21041_Zusatzpunkt",
+    "session_id": "21041",
+    "wahlperiode": "21",
+    "session_nr": "41",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 14:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung einer elektronischen Präsenzbeurkundung",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21041_Zusatzpunkt",
+    "session_id": "21041",
+    "wahlperiode": "21",
+    "session_nr": "41",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 15:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN: Klimaschutz nicht schwächen – Bundesregierung muss Führungsrolle in der Klimapolitik einnehmen",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21042_I.5",
+    "session_id": "21042",
+    "wahlperiode": "21",
+    "session_nr": "42",
+    "top_id": "I.5",
+    "top_title": "I.5\tEinzelplan 09",
+    "description": "Bundesministerium für Wirtschaft und Energie",
+    "speech_count": 21
+  },
+  {
+    "unique_id": "21042_I.6",
+    "session_id": "21042",
+    "wahlperiode": "21",
+    "session_nr": "42",
+    "top_id": "I.6",
+    "top_title": "I.6\tEinzelplan 16",
+    "description": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "speech_count": 21
+  },
+  {
+    "unique_id": "21042_I.7",
+    "session_id": "21042",
+    "wahlperiode": "21",
+    "session_nr": "42",
+    "top_id": "I.7",
+    "top_title": "I.7\tEinzelplan 17",
+    "description": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+    "speech_count": 19
+  },
+  {
+    "unique_id": "21042_I.8",
+    "session_id": "21042",
+    "wahlperiode": "21",
+    "session_nr": "42",
+    "top_id": "I.8",
+    "top_title": "I.8\tEinzelplan 24",
+    "description": "Bundesministerium für Digitales und Staatsmodernisierung",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21042_in",
+    "session_id": "21042",
+    "wahlperiode": "21",
+    "session_nr": "42",
+    "top_id": "in",
+    "top_title": "b)\tEinzelplan 20",
+    "description": "Bundesrechnungshof",
+    "speech_count": 21
+  },
+  {
+    "unique_id": "21043_I.10",
+    "session_id": "21043",
+    "wahlperiode": "21",
+    "session_nr": "43",
+    "top_id": "I.10",
+    "top_title": "I.10\tEinzelplan 05",
+    "description": "Auswärtiges Amt",
+    "speech_count": 24
+  },
+  {
+    "unique_id": "21043_I.11",
+    "session_id": "21043",
+    "wahlperiode": "21",
+    "session_nr": "43",
+    "top_id": "I.11",
+    "top_title": "I.11\tEinzelplan 14",
+    "description": "Bundesministerium der Verteidigung",
+    "speech_count": 20
+  },
+  {
+    "unique_id": "21043_I.12",
+    "session_id": "21043",
+    "wahlperiode": "21",
+    "session_nr": "43",
+    "top_id": "I.12",
+    "top_title": "I.12\tEinzelplan 23",
+    "description": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21043_in",
+    "session_id": "21043",
+    "wahlperiode": "21",
+    "session_nr": "43",
+    "top_id": "in",
+    "top_title": "b)\tEinzelplan 22",
+    "description": "Unabhängiger Kontrollrat",
+    "speech_count": 36
+  },
+  {
+    "unique_id": "21044_I.15",
+    "session_id": "21044",
+    "wahlperiode": "21",
+    "session_nr": "44",
+    "top_id": "I.15",
+    "top_title": "I.15\tEinzelplan 15",
+    "description": "Bundesministerium für Gesundheit",
+    "speech_count": 18
+  },
+  {
+    "unique_id": "21044_I.16",
+    "session_id": "21044",
+    "wahlperiode": "21",
+    "session_nr": "44",
+    "top_id": "I.16",
+    "top_title": "I.16\tEinzelplan 25",
+    "description": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+    "speech_count": 21
+  },
+  {
+    "unique_id": "21044_I.17",
+    "session_id": "21044",
+    "wahlperiode": "21",
+    "session_nr": "44",
+    "top_id": "I.17",
+    "top_title": "I.17\tEinzelplan 12",
+    "description": "Bundesministerium für Verkehr",
+    "speech_count": 20
+  },
+  {
+    "unique_id": "21044_I.18",
+    "session_id": "21044",
+    "wahlperiode": "21",
+    "session_nr": "44",
+    "top_id": "I.18",
+    "top_title": "I.18\tEinzelplan 10",
+    "description": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+    "speech_count": 20
+  },
+  {
+    "unique_id": "21044_in",
+    "session_id": "21044",
+    "wahlperiode": "21",
+    "session_nr": "44",
+    "top_id": "in",
+    "top_title": "b)\tEinzelplan 21",
+    "description": "Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21044_in",
+    "session_id": "21044",
+    "wahlperiode": "21",
+    "session_nr": "44",
+    "top_id": "in",
+    "top_title": "b)\tEinzelplan 19",
+    "description": "Bundesverfassungsgericht",
+    "speech_count": 38
+  },
+  {
+    "unique_id": "21045_Anlage",
+    "session_id": "21045",
+    "wahlperiode": "21",
+    "session_nr": "45",
+    "top_id": "Anlage",
+    "top_title": "Anlage 3",
+    "description": "Erklärungen nach § 31 GO zu der namentlichen Abstimmung über die dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für da",
+    "speech_count": 2
+  },
+  {
+    "unique_id": "21045_I.19",
+    "session_id": "21045",
+    "wahlperiode": "21",
+    "session_nr": "45",
+    "top_id": "I.19",
+    "top_title": "I.19\tEinzelplan 11",
+    "description": "Bundesministerium für Arbeit und Soziales",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21045_I.20",
+    "session_id": "21045",
+    "wahlperiode": "21",
+    "session_nr": "45",
+    "top_id": "I.20",
+    "top_title": "I.20\tEinzelplan 30",
+    "description": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+    "speech_count": 22
+  },
+  {
+    "unique_id": "21045_II",
+    "session_id": "21045",
+    "wahlperiode": "21",
+    "session_nr": "45",
+    "top_id": "II",
+    "top_title": "Tagesordnungspunkt II:",
+    "description": "Dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2026 (Haushaltsgesetz 2026 – HG 2026)",
+    "speech_count": 20
+  },
+  {
+    "unique_id": "21046_Anlage",
+    "session_id": "21046",
+    "wahlperiode": "21",
+    "session_nr": "46",
+    "top_id": "Anlage",
+    "top_title": "Anlage 3",
+    "description": "Erklärungen nach § 31 GO",
+    "speech_count": 16
+  },
+  {
+    "unique_id": "21046_Tagesordnungspunkt",
+    "session_id": "21046",
+    "wahlperiode": "21",
+    "session_nr": "46",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 1:",
+    "description": "Befragung der Bundesregierung",
+    "speech_count": 167
+  },
+  {
+    "unique_id": "21046_Tagesordnungspunkt",
+    "session_id": "21046",
+    "wahlperiode": "21",
+    "session_nr": "46",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 3:",
+    "description": "Antrag der Fraktionen der CDU/CSU und SPD: Errichtung des Gedenkorts für die polnischen Opfer des Zweiten Weltkrieges und die Opfer der deutschen Besatzungsherrschaft in Polen",
+    "speech_count": 167
+  },
+  {
+    "unique_id": "21046_Tagesordnungspunkt",
+    "session_id": "21046",
+    "wahlperiode": "21",
+    "session_nr": "46",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 4:",
+    "description": "Antrag der Abgeordneten Schahina Gambir, Marcel Emmerich, Luise Amtsberg, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Wort halten, Leben schützen – Visa für afghanische Staatsangehör",
+    "speech_count": 167
+  },
+  {
+    "unique_id": "21046_Tagesordnungspunkt",
+    "session_id": "21046",
+    "wahlperiode": "21",
+    "session_nr": "46",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 5:",
+    "description": "Unterrichtung durch die Bundesregierung: Konzeption des Bundes für die Gedenkstätten zur Aufarbeitung der NS-Terrorherrschaft und der SED-Diktatur",
+    "speech_count": 167
+  },
+  {
+    "unique_id": "21046_Tagesordnungspunkt",
+    "session_id": "21046",
+    "wahlperiode": "21",
+    "session_nr": "46",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 6:",
+    "description": "Antrag der Abgeordneten Dr. Gottfried Curio, Dr. Bernd Baumann, Christopher Drößler, weiterer Abgeordneter und der Fraktion der AfD: Organisierten Betrug im Einbürgerungsverfahren verhindern – Das Ver",
+    "speech_count": 167
+  },
+  {
+    "unique_id": "21046_Zusatzpunkt",
+    "session_id": "21046",
+    "wahlperiode": "21",
+    "session_nr": "46",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 1:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion der AfD: Linksextreme Gewalt und die Geschehnisse um die Neugründung des AfD-Jugendverbandes in Gießen",
+    "speech_count": 14
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 7:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Steueränderungsgesetzes 2025",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 8:",
+    "description": "Antrag der Abgeordneten Lisa Badum, Dr. Jan-Niclas Gesenhues, Julia Schneider, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Rückbau der EU-Klimapolitik stoppen – Deutschlands Klimasch",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 10:",
+    "description": "Antrag der Abgeordneten Martin Erwin Renner, Dr. Götz Frömming, Ronald Gläser, weiterer Abgeordneter und der Fraktion der AfD: Entlassung des Staatsministers für Kultur und Medien",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 33:",
+    "description": "Vereinbarte Debatte: Tag der Menschenrechte",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Beschleunigung des Ausbaus von Geothermieanlagen, Wärmepumpen und Wärmespeichern sowie zur Änderung wei",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "Antrag der Abgeordneten Jan Feser, René Springer, Peter Bohnhof, weiterer Abgeordneter und der Fraktion der AfD: Schutz vor Gewalt und bessere Arbeitsbedingungen für Mitarbeiter der Jobcenter",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Militärischen Sicherheit in der Bundeswehr",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "Antrag der Abgeordneten Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof, weiterer Abgeordneter und der Fraktion der AfD: Für eine sichere Rente unserer Kinder – Junior-Spardepot",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 18:",
+    "description": "Antrag der Abgeordneten Ulle Schauws, Helge Limburg, Marcel Emmerich, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Gewaltschutz ganzheitlich denken – Istanbul-Konvention vollständig u",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der EU-Erneuerbaren-Richtlinie in den Bereichen Windenergie auf See und Stromnetze",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Tagesordnungspunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 20:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu dem Antrag der Abgeordneten Marc Bernhard, Carolin Bachmann, Sebastian Münzenmaier, weit",
+    "speech_count": 118
+  },
+  {
+    "unique_id": "21047_Zusatzpunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 2:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Sport und Ehrenamt zu dem Antrag der Abgeordneten Lars Schieske, Jörn König, Thomas Korell, weiterer Abgeordneter und der Fraktion der AfD: Deutsche",
+    "speech_count": 49
+  },
+  {
+    "unique_id": "21047_Zusatzpunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 3:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Einen gerechten und dauerhaften Frieden für die Ukraine erreichen",
+    "speech_count": 49
+  },
+  {
+    "unique_id": "21047_Zusatzpunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 4:",
+    "description": "Antrag der Abgeordneten Luise Amtsberg, Agnieszka Brugger, Deborah Düring, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Deutschlands Verantwortung im Sudan – Humanitäre Hilfe stärken,",
+    "speech_count": 49
+  },
+  {
+    "unique_id": "21047_Zusatzpunkt",
+    "session_id": "21047",
+    "wahlperiode": "21",
+    "session_nr": "47",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 5:",
+    "description": "Erste Beratung des von den Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Ulrich von Zons, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Änderung de",
+    "speech_count": 49
+  },
+  {
+    "unique_id": "21048_Anlage",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Anlage",
+    "top_title": "Anlage 5",
+    "description": "Erklärungen nach § 31 GO zu der namentlichen Abstimmung über den von der Bundesregierung eingebrachten Entwurf eines Gesetzes zur Modernisierung des Wehrdienstes (Wehrdienst-Modernisierungsgesetz – WD",
+    "speech_count": 26
+  },
+  {
+    "unique_id": "21048_Anlage",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Anlage",
+    "top_title": "Anlage 9",
+    "description": "Erklärungen nach § 31 GO zu der namentlichen Abstimmung über den von der Bundesregierung eingebrachten Entwurf eines Gesetzes zur Stabilisierung des Rentenniveaus und zur vollständigen Gleichstellung ",
+    "speech_count": 26
+  },
+  {
+    "unique_id": "21048_Anlage",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Anlage",
+    "top_title": "Anlage 11",
+    "description": "Erklärungen nach § 31 GO",
+    "speech_count": 26
+  },
+  {
+    "unique_id": "21048_Anlage",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Anlage",
+    "top_title": "Anlage 12",
+    "description": "Erklärungen nach § 31 GO zu der namentlichen Abstimmung über den von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurf eines Gesetzes zur Bestimmung sicherer Herkunftsstaaten durch Rechtsverord",
+    "speech_count": 26
+  },
+  {
+    "unique_id": "21048_Tagesordnungspunkt",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 27:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Modernisierung des Wehrdienstes (Wehrdienst-Modernisierungsgesetz – WDModG)",
+    "speech_count": 58
+  },
+  {
+    "unique_id": "21048_Tagesordnungspunkt",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 28:",
+    "description": "Antrag der Abgeordneten Jörn König, Peter Boehringer, Kay Gottschalk, weiterer Abgeordneter und der Fraktion der AfD: Bargeld ist gedruckte Freiheit – Vorhaben der Europäischen Zentralbank für digital",
+    "speech_count": 58
+  },
+  {
+    "unique_id": "21048_Tagesordnungspunkt",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 30:",
+    "description": "Antrag der Abgeordneten Pascal Meiser, Janine Wissler, Doris Achelwilm, weiterer Abgeordneter und der Fraktion Die Linke: Paketzustellerinnen und Paketzusteller wirksam vor Überlastung und Ausbeutung ",
+    "speech_count": 58
+  },
+  {
+    "unique_id": "21048_Tagesordnungspunkt",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 29:",
+    "description": "Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Bestimmung sicherer Herkunftsstaaten durch Rechtsverordnung und Abschaffung des anwaltli",
+    "speech_count": 58
+  },
+  {
+    "unique_id": "21048_Tagesordnungspunkt",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 11:",
+    "description": "Vereinbarte Debatte: 30. Jahrestag des Vertrags von Dayton",
+    "speech_count": 58
+  },
+  {
+    "unique_id": "21048_Zusatzpunkt",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 11:",
+    "description": "Beschlussempfehlung und Bericht des Finanzausschusses zu dem Antrag der Abgeordneten Gerrit Huy, Kay Gottschalk, René Springer, weiterer Abgeordneter und der Fraktion der AfD: Steuerfreier Hinzuverdie",
+    "speech_count": 28
+  },
+  {
+    "unique_id": "21048_Zusatzpunkt",
+    "session_id": "21048",
+    "wahlperiode": "21",
+    "session_nr": "48",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 12:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu dem Antrag der Abgeordneten Harald Ebner, Dr. Konstantin von Notz, Dr. Julia Verlinden, ",
+    "speech_count": 28
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 13:",
+    "description": "Antrag der Abgeordneten Tobias Matthias Peterka, Stephan Brandner, Knuth Meyer-Soltau, weiterer Abgeordneter und der Fraktion der AfD: Einsetzung des … Untersuchungsausschusses der 21. Wahlperiode („N",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 9:",
+    "description": "Vereinbarte Debatte: 35. Jahrestag der Konstituierung des ersten gesamtdeutschen Bundestages",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 10:",
+    "description": "Antrag der Abgeordneten Schahina Gambir, Misbah Khan, Dr. Konstantin von Notz, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Mit einem Demokratiefördergesetz Demokratie stärken und Ziv",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 12:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Luftsicherheitsgesetzes",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 23:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales zu dem Antrag der Abgeordneten Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof, weiterer Abgeordneter und der Fraktion der",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 14:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Angebote der Jugendarbeit im Ganztag während der Schulferien",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 15:",
+    "description": "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit zu dem Antrag der Abgeordneten Mareike Hermeier, Dr. Fabian Fahl, Luigi Pantisano, weiterer",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 16:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Produktsicherheitsgesetzes und weiterer produktsicherheitsrechtlicher Vorschriften",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 17:",
+    "description": "Antrag der Abgeordneten Dr. Rainer Kraft, Andreas Bleck, Dr. Michael Blos, weiterer Abgeordneter und der Fraktion der AfD: Beitritt Deutschlands zur europäischen Nuklearallianz",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 18:",
+    "description": "Beratung der Zweiten Beschlussempfehlung des Wahlprüfungsausschusses zu Einsprüchen anlässlich der Wahl zum 21. Deutschen Bundestag am 23. Februar 2025",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 19:",
+    "description": "Antrag der Abgeordneten Dr. Paula Piechotta, Dr. Janosch Dahmen, Simone Fischer, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Kosten für hochpreisige Arzneimittel bezahlbar halten – F",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 20:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Europol-Gesetzes",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Tagesordnungspunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 21:",
+    "description": "Erste Beratung des von den Abgeordneten Gereon Bollmann, Manfred Schiller und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Stärkung der Bürgerbeteiligung durch die Behandlung von Pet",
+    "speech_count": 123
+  },
+  {
+    "unique_id": "21050_Zusatzpunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 9:",
+    "description": "Antrag der Abgeordneten Clara Bünger, Anne-Mieke Bremer, Katrin Fey, weiterer Abgeordneter und der Fraktion Die Linke: Bundespolizei rechtsstaatlich modernisieren – Menschenrechte in Vollzugspraxis un",
+    "speech_count": 36
+  },
+  {
+    "unique_id": "21050_Zusatzpunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 10:",
+    "description": "–o) Beratung der Beschlussempfehlungen des Petitionsausschusses: Sammelübersichten 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141 und 142 zu Petitionen",
+    "speech_count": 36
+  },
+  {
+    "unique_id": "21050_Zusatzpunkt",
+    "session_id": "21050",
+    "wahlperiode": "21",
+    "session_nr": "50",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 3:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Zu den Ergebnissen des Berliner Ukrainegipfels",
+    "speech_count": 36
+  },
+  {
+    "unique_id": "21051_Tagesordnungspunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 29:",
+    "description": "– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Förderung privater Investitionen und des Finanzstandorts (Standortfördergesetz – StoFöG)",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21051_Tagesordnungspunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 31:",
+    "description": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Gesetzes gegen den unlauteren Wettbewerb",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21051_Tagesordnungspunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 32:",
+    "description": "Antrag der Abgeordneten Luise Amtsberg, Schahina Gambir, Agnieszka Brugger, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Syrien ein Jahr nach Sturz des Assad-Regimes – Gerechtigkeit e",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21051_Tagesordnungspunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 33:",
+    "description": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2017/541 zur Terrorismusbekämpfung und zur Anpassung des Strafrahmens bei geheimdiens",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21051_Tagesordnungspunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Tagesordnungspunkt",
+    "top_title": "Tagesordnungspunkt 35:",
+    "description": "Unterrichtung durch die Bundesregierung: Bericht über das deutsche Engagement beim Einsatz von Polizistinnen und Polizisten in internationalen Polizeimissionen 2024",
+    "speech_count": 52
+  },
+  {
+    "unique_id": "21051_Zusatzpunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 13:",
+    "description": "Beratung der Beschlussempfehlung des Ausschusses nach Artikel 77 des Grundgesetzes (Vermittlungsausschuss) zu dem Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21051_Zusatzpunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 5:",
+    "description": "Beschlussempfehlung und Bericht des Finanzausschusses zu dem Antrag der Abgeordneten Katharina Beck, Dr. Moritz Heuberger, Max Lucks, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Gere",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21051_Zusatzpunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 7:",
+    "description": "Antrag der Abgeordneten Leif-Erik Holm, Kay Gottschalk, Jörn König, weiterer Abgeordneter und der Fraktion der AfD: Zölle durch positive Anreize für die USA senken",
+    "speech_count": 42
+  },
+  {
+    "unique_id": "21051_Zusatzpunkt",
+    "session_id": "21051",
+    "wahlperiode": "21",
+    "session_nr": "51",
+    "top_id": "Zusatzpunkt",
+    "top_title": "Zusatzpunkt 8:",
+    "description": "Aktuelle Stunde auf Verlangen der Fraktion der AfD: Digital Services Act abschaffen – Keine Einschränkung der Meinungsfreiheit im digitalen Raum durch die EU",
+    "speech_count": 42
+  }
+]
